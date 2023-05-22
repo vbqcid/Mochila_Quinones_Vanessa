@@ -1,2 +1,22 @@
 SETUP:
 git config --global user.name (Sirve para setear el nombre de manera global)
+git config --global user.email (Sirve para setear un email de manera global)
+
+
+SETUP INIT:
+git init (Inicializa un directorio existente como un repositorio de git)
+git clone (Sirve para clonar un repositorio entero desde un URL)
+
+STAGE Y SNAPSHOT:
+git status (Muestra los archivos modificados en el directorio de trabajo)
+git add (Sirve para agregar archivos y posteriormente commitearlos)
+
+BRANCH Y MERGE
+git branch (sirve para listar las ramas )
+git branch (nombre branch) - (Sirve para cambiar de rama)
+git log (Muestra todos los commits realizados en la rama actual)
+
+SHARE AND UPDATE
+git remote add (sirve para agregar una URL git)
+git push (Sirve para mandar todos los cambios realizados y commiteados)
+git pull (Sirve para traer todos los cambios externos realizados)
