@@ -19,3 +19,5 @@ SHARE AND UPDATE
 git remote add (sirve para agregar una URL git)
 git push (Sirve para mandar todos los cambios realizados y commiteados)
 git pull (Sirve para traer todos los cambios externos realizados)
+
+----
