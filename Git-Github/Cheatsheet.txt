@@ -2,7 +2,6 @@ SETUP:
 git config --global user.name (Sirve para setear el nombre de manera global)
 git config --global user.email (Sirve para setear un email de manera global)
 
-
 SETUP INIT:
 git init (Inicializa un directorio existente como un repositorio de git)
 git clone (Sirve para clonar un repositorio entero desde un URL)
