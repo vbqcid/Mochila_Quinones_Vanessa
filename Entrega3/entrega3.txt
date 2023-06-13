@@ -1,0 +1,23 @@
+● ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+Un lenguaje de programación puede ser compatible o no con ciertos sistemas operativos debido a varias razones:
+Arquitectura de la CPU: Algunos lenguajes de programación están diseñados para funcionar en una arquitectura de CPU específica, como x86 o ARM. Si un sistema operativo utiliza una arquitectura diferente a la que soporta el lenguaje, es posible que no sea compatible.
+
+Entorno de ejecución: Algunos lenguajes de programación dependen de ciertos componentes o bibliotecas del sistema operativo para ejecutarse. Si estas dependencias no están disponibles en un sistema operativo en particular, el lenguaje puede no funcionar correctamente.
+
+Compiladores y herramientas de desarrollo: Cada sistema operativo tiene su conjunto de herramientas de desarrollo y compiladores. Si un lenguaje de programación no cuenta con un compilador o herramientas compatibles con un sistema operativo en particular, será difícil o imposible desarrollar o ejecutar programas escritos en ese lenguaje en ese sistema operativo.
+
+Política de soporte: Algunos lenguajes de programación tienen un soporte oficial limitado para ciertos sistemas operativos. Esto puede deberse a consideraciones comerciales, estratégicas o de recursos. En estos casos, los desarrolladores del lenguaje pueden optar por no proporcionar soporte oficial para algunos sistemas operativos, lo que limita su uso en esos entornos.
+
+● ¿Qué tipo de máquina virtual es virtualBox?.
+
+VirtualBox es una máquina virtual de software de código abierto que permite la virtualización de sistemas operativos. Proporciona una plataforma para crear y ejecutar múltiples máquinas virtuales dentro de un sistema operativo anfitrión. Utiliza técnicas de virtualización para simular el hardware y crear entornos virtuales aislados en los que se pueden instalar y ejecutar sistemas operativos completos.
+VirtualBox es una máquina virtual de tipo 2 (también conocida como "hipervisor de tipo 2"), lo que significa que se ejecuta como una aplicación en un sistema operativo anfitrión existente. Esto permite que VirtualBox se ejecute en una amplia gama de sistemas operativos, como Windows, macOS, Linux y otros.
+● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+Si una máquina virtual se rompe, generalmente no afectará a las demás máquinas virtuales que se estén ejecutando en el mismo sistema. Esto se debe a que cada máquina virtual está aislada y funciona como una entidad independiente.
+Cada máquina virtual tiene su propio sistema operativo virtualizado y recursos asignados, como memoria, disco duro virtual y dispositivos virtuales. Si una máquina virtual se corrompe o tiene un error, afectará solo a esa máquina virtual específica y no interferirá con el funcionamiento de las demás máquinas virtuales en el sistema.
+
+Sin embargo, es posible que el rendimiento general del sistema anfitrión se vea afectado si una máquina virtual defectuosa consume una gran cantidad de recursos del sistema, como CPU o memoria. En casos extremos, esto puede afectar el rendimiento de otras máquinas virtuales en el sistema. Por lo tanto, es importante gestionar adecuadamente los recursos asignados a cada máquina virtual y supervisar su uso
+
+● Subir este archivo a la mochila del viajero.
