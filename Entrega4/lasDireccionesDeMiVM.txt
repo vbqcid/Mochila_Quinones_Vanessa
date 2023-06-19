@@ -1,0 +1,7 @@
+Ip pública: 181.43.123.141
+Ip Privada: 127.0.0.1
+MAC: 08:00:27:a3:ef:38
+
+¿SOn diferentes los valores a la máquina host?
+
+Si lo son.
